@@ -1,0 +1,5 @@
+com\badmussodiq\chattingapplication\config\WebSocketConfig.class
+com\badmussodiq\chattingapplication\controller\ChatController.class
+com\badmussodiq\chattingapplication\models\Message.class
+com\badmussodiq\chattingapplication\models\Status.class
+com\badmussodiq\chattingapplication\ChattingApplication.class
